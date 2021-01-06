@@ -1,4 +1,5 @@
 # testmarkdown
 
-- [ ] 1
-- [X] 2
+- [ ] Empty
+- [X] Upcase X
+- [x] Lowcase x
