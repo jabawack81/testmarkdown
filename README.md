@@ -1,4 +1,4 @@
 # testmarkdown
 
 - [ ] 1
-- [ ] 2
+- [X] 2
